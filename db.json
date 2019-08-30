@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstName": "sakura",
+      "age": 15,
+      "companyId": 1
+    },
+    {
+      "id": "12",
+      "firstName": "naruto",
+      "age": 14,
+      "companyId": 2
+    },
+    {
+      "id": "7",
+      "firstName": "sasuke",
+      "age": 14,
+      "companyId": 2
+    },
+    {
+      "firstName": "kakashi",
+      "age": 25,
+      "id": "VgJwgSg"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Ginza 7",
+      "desc": "sushi place"
+    },
+    {
+      "id": "2",
+      "name": "Adega da Paz",
+      "desc": "traditional portuguese food"
+    }
+  ]
+}
